@@ -1,0 +1,7 @@
+C:\AprendendoCSharp\4 - Condicionais\bin\Debug\4 - Condicionais.exe.config
+C:\AprendendoCSharp\4 - Condicionais\bin\Debug\4 - Condicionais.exe
+C:\AprendendoCSharp\4 - Condicionais\bin\Debug\4 - Condicionais.pdb
+C:\AprendendoCSharp\4 - Condicionais\obj\Debug\4 - Condicionais.csprojAssemblyReference.cache
+C:\AprendendoCSharp\4 - Condicionais\obj\Debug\4 - Condicionais.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\4 - Condicionais\obj\Debug\4 - Condicionais.exe
+C:\AprendendoCSharp\4 - Condicionais\obj\Debug\4 - Condicionais.pdb
